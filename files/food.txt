@@ -1,0 +1,5 @@
+mustard	condiment
+chicken	meat
+tomato	vegetable
+flour	baking
+bread	lunch
