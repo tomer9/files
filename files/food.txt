@@ -1,5 +1,6 @@
-mustard	condiment
-chicken	meat
-tomato	vegetable
-flour	baking
-bread	lunch
+Catsup	Condiment
+Oatmeal	Bread
+Peanutbutter	Bread
+Apples	Fruit
+Tabasco	Sauce
+Pizza	Meal
